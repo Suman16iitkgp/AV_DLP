@@ -1,4 +1,6 @@
-# AV_DLP
-Analytics Vidhya Deep Learning - Learning Path for 2020
+<p align = "center">
+  <b> AV_DLP : A Comprehensive Learning Path for Deep Learning in 2020 </b> 
+</p>
 
-- [Course Page](https://courses.analyticsvidhya.com/courses/Comprehensive-learning-path-for-deep-learning-in-2020)
+
+- [Analytics Vidhya Course Page](https://courses.analyticsvidhya.com/courses/Comprehensive-learning-path-for-deep-learning-in-2020)
