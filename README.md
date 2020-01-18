@@ -4,6 +4,7 @@
 
 
 - [Analytics Vidhya Course Page](https://courses.analyticsvidhya.com/courses/Comprehensive-learning-path-for-deep-learning-in-2020)
+- [My Progress in the Course](https://github.com/ada-nai/AV_DLP/wiki/AV_DLP-Progress)
 <br>
 </br>
 
