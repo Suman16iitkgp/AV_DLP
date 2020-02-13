@@ -14,4 +14,4 @@
 - [t-test Calculator](https://www.danielsoper.com/statcalc/calculator.aspx?id=98)
 - [F-ratio Calculator](https://stattrek.com/online-calculator/f-distribution.aspx)
 - [chi-square Calculator](https://stattrek.com/online-calculator/chi-square.aspx)
-- []()
+- [Partial Derivatives primer](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/introduction-to-partial-derivatives)
