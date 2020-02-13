@@ -1,6 +1,10 @@
 ## Key Topics
 - Inferential Statistics
 - Partial Derivatives
+- Linear Algebra
+- Linear Regression
+- Logistic Regression
+- Regularization Techniques
 
 ## References
 - [Analytics Vidhya](https://www.analyticsvidhya.com/)
