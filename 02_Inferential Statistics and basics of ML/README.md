@@ -15,3 +15,6 @@
 - [F-ratio Calculator](https://stattrek.com/online-calculator/f-distribution.aspx)
 - [chi-square Calculator](https://stattrek.com/online-calculator/chi-square.aspx)
 - [Partial Derivatives primer](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/introduction-to-partial-derivatives)
+- [Regularization Blog](https://www.analyticsvidhya.com/blog/2015/02/avoid-over-fitting-regularization/)
+- [Tree-based algorithms](https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/)
+- [Random Forest](https://www.analyticsvidhya.com/blog/2014/06/introduction-random-forest-simplified/)
